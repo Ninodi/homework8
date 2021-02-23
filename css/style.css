@@ -20,6 +20,8 @@ nav li{
 
 nav a{
     font-size: 18px;
+    font-family: "Brandon Grotesque";
+    font-weight: normal;
     color: #7F7F7F;
 }
 .soc_media{
@@ -65,6 +67,8 @@ section, footer {
     height: 190px;
     color: #19381F;
     font-size: 40px;
+    font-family: "Kazimir";
+    font-style: italic;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -102,10 +106,14 @@ section, footer {
     margin-bottom: 50px;
     color: #19381F;
     font-size: 40px;
+    font-family: "Brandon Grotesque";
+    font-weight: normal;
 }
 
 .info_txt p{
     font-size: 20px;
+    font-family: "Kazimir";
+    font-style: italic;
     color: #F4F4F1;
 }
 
@@ -127,6 +135,8 @@ section, footer {
 
 .info2_txt p{
     font-size: 20px;
+    font-family: "Kazimir";
+    font-style: italic;
     color: #7F7F7F;
     text-align: center;
     margin-bottom: -125px;
@@ -136,6 +146,8 @@ section, footer {
     margin-top: 70px;
     margin-bottom: -70px;
     font-size: 40px;
+    font-family: "Kazimir";
+    font-style: italic;
     color: #36413E;
 }
 
@@ -144,6 +156,8 @@ section, footer {
     width: 150px;
     height: 50px;
     font-size: 12px;
+    font-family: "Brandon Grotesque";
+    font-weight: bold;
     color: #FFFFFF;
     background-color: #36413E;
     display: flex;
@@ -169,6 +183,7 @@ footer ul{
 
 .footer_privacy{
     font-size: 12px;
+    font-weight: bold;
     margin-right: 420px;
 }
 
@@ -178,5 +193,7 @@ footer li{
 
 footer a{
     font-size: 10px;
+    font-family: "Brandon Grotesque";
+    font-weight: normal;
     color: #FFFFFF;
 }
