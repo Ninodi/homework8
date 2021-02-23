@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-ul{
+nav ul{
     margin-left: -100px;
     display: flex;
     flex-direction: row;
@@ -14,11 +14,12 @@ ul{
     align-items: center;
 }
 
-li{
+nav li{
    margin-left: 100px; 
 }
 
 nav a{
+    font-size: 18px;
     color: #7F7F7F;
 }
 .soc_media{
@@ -47,7 +48,7 @@ header{
 main{
     width: 100%;
 }
-section, .about, .info, .info2{
+section, footer {
     width: 100%;
 }
 .about{
@@ -150,3 +151,32 @@ section, .about, .info, .info2{
     align-items: center;
 }
 
+footer{
+    height: 75px;
+    background-color: #306B34;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+footer ul{
+    margin-left: 31px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.footer_privacy{
+    font-size: 12px;
+    margin-right: 420px;
+}
+
+footer li{
+    margin-right: 43px;
+}
+
+footer a{
+    font-size: 10px;
+    color: #FFFFFF;
+}
